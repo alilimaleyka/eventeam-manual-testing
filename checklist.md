@@ -1,30 +1,22 @@
 # Eventeam Testing Checklist
 
-## Authentication
+## Registration
 
-- [ ] Registration işləyir
-- [ ] Login işləyir
-- [ ] Yanlış login məlumatlarında error mesajı göstərilir
-- [ ] Logout işləyir
+- [ ] Ad sahəsi yoxlanıldı
+- [ ] Soyad sahəsi yoxlanıldı
+- [ ] Email formatı yoxlanıldı
+- [ ] Şifrə validasiyası yoxlanıldı
 
-## Event Management
+## Login
 
-- [ ] Event yaratmaq olur
-- [ ] Event detail page açılır
-- [ ] Event məlumatları düzgün görünür
-- [ ] Required field validation işləyir
+- [ ] Valid login
+- [ ] Invalid login
+- [ ] Empty fields
+- [ ] Error messages
 
-## Search / Filter
+## Event Creation
 
-- [ ] Search input işləyir
-- [ ] Search nəticələri düzgün göstərilir
-- [ ] Filter işləyir
-- [ ] Filter nəticələri düzgün göstərilir
-
-## UI / UX
-
-- [ ] Button-lar görünür
-- [ ] Mətnlər oxunaqlıdır
-- [ ] Layout pozulmur
-- [ ] Error mesajları aydındır
-- [ ] Mobile görünüş yoxlanılıb
+- [ ] Required fields
+- [ ] Date selection
+- [ ] Time selection
+- [ ] Successful event creation

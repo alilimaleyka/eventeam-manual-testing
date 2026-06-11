@@ -1,45 +1,54 @@
-# Eventeam Startup Manual Testing Project
+# Eventeam Manual Testing Project
 
-Bu repo Eventeam startup layihəsinin manual test edilməsi üçün yaradılıb.
+## Layihə haqqında
 
-## Project haqqında
+Bu repository Eventeam platformasının manual test edilməsi məqsədilə hazırlanmışdır.
 
-Eventeam tədbirlərin təşkili, idarə olunması və istifadəçilərin event-lərlə əlaqəli funksiyalardan istifadə etməsi üçün nəzərdə tutulmuş startup layihəsidir.
+Layihə çərçivəsində tətbiqin əsas funksionallıqları yoxlanılmış, test ssenariləri hazırlanmış və aşkar edilmiş problemlər sənədləşdirilmişdir.
 
-Bu layihədə Eventeam platformasının manual testing prosesi sənədləşdirilib.
+## Test olunan sistem
 
-## Eventeam startup saytı: https://eventeam.az/
+Eventeam tədbirlərin yaradılması, idarə olunması və istifadəçilərin tədbirlərdə iştirakını təmin edən veb platformadır.
 
-## Test olunan sahələr
+Test edilən mühit:
 
-* Registration / Login
-* Event creation
-* Event details page
-* Search / Filter
-* User profile
-* UI / UX yoxlamaları
+https://eventeam.az/
+
+## Test əhatə dairəsi
+
+* Qeydiyyat (Registration)
+* Giriş (Login)
+* Event yaradılması
+* Event detalları səhifəsi
+* Axtarış funksiyası
+* Filtrləmə funksiyası
+* İstifadəçi profili
 * Form validation
-* Error messages
-* Responsive design
+* UI/UX yoxlamaları
 
-## Repo daxilində olan fayllar
+## Hazırlanmış sənədlər
 
-* `test-cases.md` — Eventeam üçün test case-lər
-* `bug-reports.md` — tapılan bug reportlar
-* `checklist.md` — manual testing checklist
-* `test-summary.md` — test nəticələrinin ümumi xülasəsi
-* `.gitignore` — Git-in izləməməli olduğu fayllar
+* test-cases.md
+* bug-reports.md
+* checklist.md
+* test-summary.md
 
-## İstifadə olunan QA anlayışları
+## İstifadə olunan test növləri
 
 * Manual Testing
 * Functional Testing
 * UI Testing
+* Positive Testing
+* Negative Testing
 * Regression Testing
-* Test Case
-* Bug Report
-* Severity
-* Priority
-* Expected Result
-* Actual Result
-* Steps to Reproduce
+
+## İstifadə olunan QA artefaktları
+
+* Test Cases
+* Test Checklist
+* Bug Reports
+* Test Summary Report
+
+## Layihənin məqsədi
+
+Bu layihənin məqsədi Eventeam platformasının əsas funksiyalarını yoxlamaq, istifadəçi təcrübəsinə təsir edən problemləri müəyyən etmək və manual testing bacarıqlarını praktik şəkildə nümayiş etdirməkdir.

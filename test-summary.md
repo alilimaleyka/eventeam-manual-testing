@@ -29,5 +29,56 @@ Eventeam platformasında əsas funksiyalar manual olaraq yoxlanıldı. Test zama
 
 - Test cases hazırlanıb
 - Bug reports yazılıb
-- Checklist yaradılıb
+- Checklist ya# Eventeam Test Summary Report
+
+## Layihə
+
+Eventeam Web Platform
+
+## Test Dövrü
+
+İyun 2025
+
+## Testin Məqsədi
+
+Eventeam platformasının əsas funksionallıqlarının yoxlanılması və istifadəçi təcrübəsinə təsir edən problemlərin müəyyənləşdirilməsi.
+
+## Test Əhatəsi
+
+* Registration
+* Login
+* Event Creation
+* Event Details
+* Search
+* Filter
+* User Profile
+* Form Validation
+
+## Nəticələr
+
+| Metrika                | Say |
+| ---------------------- | --- |
+| Yazılmış Test Case     | 8   |
+| İcra edilmiş Test Case | 8   |
+| Passed                 | 6   |
+| Failed                 | 2   |
+| Tapılmış Bug           | 5   |
+
+## Tapılmış Problemlər
+
+* Login error mesajının göstərilməməsi
+* Validation problemləri
+* Search nəticələrinin düzgün filtrlənməməsi
+* Profil məlumatlarının yenilənməməsi
+* Mobil görünüş problemləri
+
+## Risklər
+
+* Validation problemləri yanlış məlumatların sistemə daxil olmasına səbəb ola bilər.
+* Search problemləri istifadəçi təcrübəsini zəiflədir.
+
+## Nəticə
+
+Test nəticələrinə əsasən sistemin əsas funksionallıqları işləkdir, lakin bəzi funksional və UI problemlərinin aradan qaldırılması tövsiyə olunur.
+radılıb
 - Test summary hazırlanıb
