@@ -8,7 +8,7 @@ Eventeam tədbirlərin təşkili, idarə olunması və istifadəçilərin event-
 
 Bu layihədə Eventeam platformasının manual testing prosesi sənədləşdirilib.
 
-## Eventeam startup sayt: https://eventeam.az/
+## Eventeam startup saytı: https://eventeam.az/
 
 ## Test olunan sahələr
 
